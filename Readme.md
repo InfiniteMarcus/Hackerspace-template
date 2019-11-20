@@ -5,3 +5,6 @@
 #Muito coco
 
 Gostou? quer mais???
+
+
+Goto eh um comando util
