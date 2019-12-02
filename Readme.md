@@ -20,5 +20,4 @@
 Entre 3 imagens está bom, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
 
 Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando:
-
-![Image description](colocar_link_da_imagem)
+![Image description]()
