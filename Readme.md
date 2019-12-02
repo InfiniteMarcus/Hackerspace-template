@@ -56,7 +56,8 @@ Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se
 ## Imagens/screenshots
 Entre 3 imagens está bom, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
 
-Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando:
+Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando (abrir este Readme no modo raw ou como txt):
+
 ![Imagem](link_da_imagem)
 
-
+É preferível que vocês usem imagens hospedadas no próprio GitHub do projeto. É só referenciar o link delas no comando acima.
