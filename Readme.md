@@ -13,6 +13,7 @@ Passos que o grupo realizou para criar, implementar ou projetar o projeto.
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
 
 Exemplos:
+
 1)
 ```
 Execute o comando X Y Z, no terminal, na pasta do projeto
