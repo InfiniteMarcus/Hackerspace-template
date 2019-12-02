@@ -7,14 +7,25 @@
   Linguagens, bibliotecas, peças de hardware, e outras coisas
   
 ## Passo a passo
+Passos que o grupo realizou para criar, implementar ou projetar o projeto.
 
 ## Instalação
+Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
+
+Exemplos:
+
+```
+Execute o comando X, no terminal
+```
 
 ## Execução
+Passos necessários para executar ou rodar seu projeto.
 
 ## Bugs/problemas conhecidos
+Lista de possíveis problemas, bugs, falhas ou comportamentos esquisitos que o grupo conheça sobre o projeto. Esta seção é importante para que outras pessoas compreendam 
 
-## Demais anotações e referências
+## Demais anotações e referências (opcional)
+Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se assim desejar.
 
 ## Imagens/screenshots
 Entre 3 imagens está bom, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
