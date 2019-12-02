@@ -4,7 +4,10 @@
   conceito do projeto, explicando sucintamente. Até 2 parágrafos ta bom
   
 ## Pré-requisitos e recursos utilizados
-  Linguagens, bibliotecas, peças de hardware, e outras coisas
+Citação das linguagens, bibliotecas, peças de hardware, e outras coisas que o grupo utilizou para realizar o projeto. Não é necessário explicar qual foi o uso exato de cada coisa no projeto. Bibliotecas e recursos padrões das tecnologias utilizadas não precisam ser citados (ex: stdio.h, iostream.h, etc.).
+
+Exemplo:
+O grupo utilizou a linguagem C para 
   
 ## Passo a passo
 Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
