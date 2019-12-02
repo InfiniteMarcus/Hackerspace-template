@@ -56,7 +56,7 @@ O projeto possui uma falha ao abrir a aba INICIO, após realizar uma inserção 
 Aqui, é importante referenciar o nome dos integrantes do grupo. Não precisa de RA. Outras informações, como contato ou perfil no Github, ficam a critério do grupo.
 
 Exemplo:
-* Marcus Vinícius N. Garcia ([Infinitemarcus]](https://github.com/Infinitemarcus))
+* Marcus Vinícius N. Garcia ([Infinitemarcus](https://github.com/Infinitemarcus))
 * Marcus Vinícius N. Garcia Junior
 
 ## Demais anotações e referências (opcional)
