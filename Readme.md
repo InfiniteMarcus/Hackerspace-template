@@ -20,10 +20,11 @@ Também foi utilizado o tutorial disponível em [IstoEhOutroExemplo](https://git
 Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
 
 Exemplo:
-1. Baixamos o material disponível em 
+
+1. Baixamos o material disponível em [Material](https://materialdeexemplodohackerspace.com.br)
 2. Estudamos como o código do material anterior funciona
 3. Implementamos um programa que se comunicasse com o código compreendido
-4.
+4. 
 
 ## Instalação
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
@@ -40,16 +41,22 @@ b)
   4. Crie um arquivo W.txt de entrada
 
 ## Execução
-Passos necessários para executar ou rodar seu projeto.
+Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seguir o mesmo modelo dos exemplos de Instalação.
 
 ## Bugs/problemas conhecidos
-Lista de possíveis problemas, bugs, falhas ou comportamentos esquisitos que o grupo conheça sobre o projeto. Esta seção é importante para que outras pessoas compreendam 
+Lista de possíveis problemas, bugs, falhas ou comportamentos esquisitos que o grupo conheça sobre o projeto. Esta seção é importante para que outras pessoas saibam quais tipos de erros elas podem encontrar. Seria legal citar motivos que o grupo acredita que sejam os causadores destas coisas, mas não é obrigatório.
+
+Exemplo:
+
+O projeto possui uma falha ao abrir a aba INICIO, após realizar uma inserção com caractéres acentuados. Também foi encontrada uma falha ao definir a tela de fundo com a cor Roxa, provavelmente por conta da palheta de cores limitada da tecnologia que foi utilizada.
 
 ## Demais anotações e referências (opcional)
-Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se assim desejar.
+Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se assim desejar. Links de referências e materiais de estudo utilizados ou recomendados são sempre bem vindos. 
 
 ## Imagens/screenshots
 Entre 3 imagens está bom, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
 
 Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando:
-![Image description]()
+![Imagem](link_da_imagem)
+
+
