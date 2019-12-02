@@ -7,23 +7,29 @@
   Linguagens, bibliotecas, peças de hardware, e outras coisas
   
 ## Passo a passo
-Passos que o grupo realizou para criar, implementar ou projetar o projeto.
+Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
+
+Exemplo:
+1.
+2.
+3.
+4.
 
 ## Instalação
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
 
 Exemplos:
-a) Usando comandos ou programas
+a)
   ```
   Execute o comando X Y Z, no terminal, na pasta do projeto
   ```
-b) Enumerando uma lista de passos
+b)
   1. Abra a pasta 
   2. Execute o comando A B C no terminal
   3. Compile os arquivos X, Y e Z juntos
   4. Crie um arquivo W.txt de entrada
   
-c) Ou outros formatos que vocês acharem legais
+c) Outros formatos que vocês acharem legais
 
 ## Execução
 Passos necessários para executar ou rodar seu projeto.
