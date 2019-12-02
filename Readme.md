@@ -1,7 +1,7 @@
 # Titulo do projeto
 
-## Introdução
-  conceito do projeto, explicando sucintamente. Até 2 parágrafos ta bom
+## Conceito do projeto
+Aqui vocês definem o conceito do projeto, explicando sucintamente sobre o que ele se trata, qual a finalidade/utilidade, etc. 1-2 parágrafos já são suficientes, desde que bem explicados, mas sintam-se a vontade para escrever mais.
   
 ## Pré-requisitos e recursos utilizados
 Citação das linguagens, bibliotecas, peças de hardware, e outras coisas que o grupo utilizou para realizar o projeto. Não é necessário explicar qual foi o uso exato de cada coisa no projeto. Bibliotecas e recursos padrões das tecnologias utilizadas não precisam ser citados (ex: stdio.h, iostream.h, etc.).
@@ -9,6 +9,7 @@ Citação das linguagens, bibliotecas, peças de hardware, e outras coisas que o
 Se alguma biblioteca externa ou código de outra pessoa foi utilizado como recurso, é importante citar a fonte de onde vocês retiraram (pode ser o link no Github, ou tutorial usado como referência).
 
 Exemplo:
+
 O grupo utilizou a linguagem C para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas:
 1. abcdzd.h
 2. exemplo.h, disponível em [IstoEhApenasUmExemplo](https://github.com/istoehapenasumexemplo/minhabiblioteca)
@@ -19,9 +20,9 @@ Também foi utilizado o tutorial disponível em [IstoEhOutroExemplo](https://git
 Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
 
 Exemplo:
-1.
-2.
-3.
+1. Baixamos o material disponível em 
+2. Estudamos como o código do material anterior funciona
+3. Implementamos um programa que se comunicasse com o código compreendido
 4.
 
 ## Instalação
@@ -37,8 +38,6 @@ b)
   2. Execute o comando A B C no terminal
   3. Compile os arquivos X, Y e Z juntos
   4. Crie um arquivo W.txt de entrada
-  
-c) Outros formatos que vocês acharem legais
 
 ## Execução
 Passos necessários para executar ou rodar seu projeto.
