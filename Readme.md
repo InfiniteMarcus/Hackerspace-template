@@ -14,7 +14,7 @@ Citação das linguagens, bibliotecas, peças de hardware, e outras coisas que o
 
 Se alguma biblioteca externa ou código de outra pessoa foi utilizado como recurso, é importante citar a fonte de onde vocês retiraram (pode ser o link no Github, ou tutorial usado como referência).
 
-Exemplo:
+### Exemplo:
 
 O grupo utilizou a linguagem C para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas:
 1. abcdzd.h
@@ -25,7 +25,7 @@ Também foi utilizado o tutorial disponível em [IstoEhOutroExemplo](https://git
 ## Passo a passo
 Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
 
-Exemplo:
+### Exemplo:
 
 1. Baixamos o material disponível em [Material](https://materialdeexemplodohackerspace.com.br)
 2. Estudamos como o código do material anterior funciona
@@ -35,7 +35,7 @@ Exemplo:
 ## Instalação
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
 
-Exemplos:
+### Exemplos:
 a)
   ```
   Execute o comando X Y Z, no terminal, na pasta do projeto
@@ -52,14 +52,14 @@ Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seg
 ## Bugs/problemas conhecidos
 Lista de possíveis problemas, bugs, falhas ou comportamentos esquisitos que o grupo conheça sobre o projeto. Esta seção é importante para que outras pessoas saibam quais tipos de erros elas podem encontrar. Seria legal citar motivos que o grupo acredita que sejam os causadores destas coisas, mas não é obrigatório.
 
-Exemplo:
+### Exemplo:
 
 O projeto possui uma falha ao abrir a aba INICIO, após realizar uma inserção com caractéres acentuados. Também foi encontrada uma falha ao definir a tela de fundo com a cor Roxa, provavelmente por conta da palheta de cores limitada da tecnologia que foi utilizada.
 
 ## Autores
 Aqui, é importante referenciar o nome dos integrantes do grupo. Não precisa de RA. Outras informações, como contato ou perfil no Github, ficam a critério do grupo. Se o grupo for muito grande, é bom referenciar as funções de cada um.
 
-Exemplo:
+### Exemplo:
 * Marcus Vinícius N. Garcia ([Infinitemarcus](https://github.com/Infinitemarcus))
 * Marcus Vinícius N. Garcia Junior
 * Marcus Vinícius N. Garcia Sênior - Desenvolvedor do Back-End
