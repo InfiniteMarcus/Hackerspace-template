@@ -53,11 +53,12 @@ Exemplo:
 O projeto possui uma falha ao abrir a aba INICIO, após realizar uma inserção com caractéres acentuados. Também foi encontrada uma falha ao definir a tela de fundo com a cor Roxa, provavelmente por conta da palheta de cores limitada da tecnologia que foi utilizada.
 
 ## Autores
-Aqui, é importante referenciar o nome dos integrantes do grupo. Não precisa de RA. Outras informações, como contato ou perfil no Github, ficam a critério do grupo.
+Aqui, é importante referenciar o nome dos integrantes do grupo. Não precisa de RA. Outras informações, como contato ou perfil no Github, ficam a critério do grupo. Se o grupo for muito grande, é bom referenciar as funções de cada um.
 
 Exemplo:
 * Marcus Vinícius N. Garcia ([Infinitemarcus](https://github.com/Infinitemarcus))
 * Marcus Vinícius N. Garcia Junior
+* Marcus Vinícius N. Garcia Sênior - Desenvolvedor do Back-End
 
 ## Demais anotações e referências (opcional)
 Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se assim desejar. Links de referências e materiais de estudo utilizados ou recomendados são sempre bem vindos. 
