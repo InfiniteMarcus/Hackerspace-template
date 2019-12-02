@@ -11,7 +11,8 @@ Se alguma biblioteca externa ou código de outra pessoa foi utilizado como recur
 Exemplo:
 O grupo utilizou a linguagem C para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas:
 1. abcdzd.h
-2. exemplo.h, disponível em [istoehapenasumexemplo](https://github.com/istoehapenasumexemplo/minhabiblioteca)
+2. exemplo.h, disponível em [IstoEhApenasUmExemplo](https://github.com/istoehapenasumexemplo/minhabiblioteca)
+Também foi utilizado o tutorial disponível em [IstoEhOutroExemplo](https://github.com/istoehoutroexemplo/oi) como base para o grupo compreender a implementação da função X dentro da linguagem em questão.
   
 ## Passo a passo
 Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
