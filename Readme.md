@@ -13,15 +13,17 @@ Passos que o grupo realizou para criar, implementar ou projetar o projeto.
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
 
 Exemplos:
-
-1)
-```
-Execute o comando X Y Z, no terminal, na pasta do projeto
-```
-2)
+a) Usando comandos ou programas
+  ```
+  Execute o comando X Y Z, no terminal, na pasta do projeto
+  ```
+b) Enumerando uma lista de passos
   1. Abra a pasta 
-  2. Compile os arquivos X, Y e Z juntos
-  3. Crie um arquivo W.txt de entrada
+  2. Execute o comando A B C no terminal
+  3. Compile os arquivos X, Y e Z juntos
+  4. Crie um arquivo W.txt de entrada
+  
+c) Ou outros formatos que vocês acharem legais
 
 ## Execução
 Passos necessários para executar ou rodar seu projeto.
