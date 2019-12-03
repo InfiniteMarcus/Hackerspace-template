@@ -29,14 +29,16 @@ O grupo utilizou a linguagem C para desenvolver a implementação geral do proje
 Também foi utilizado o tutorial disponível em [IstoEhOutroExemplo](https://github.com/istoehoutroexemplo/oi) como base para o grupo compreender a implementação da função X dentro da linguagem em questão.
   
 ## Passo a passo
-Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc.
+Passos que o grupo realizou para criar, implementar ou projetar o projeto. É importante descrever pelo menos o mais importante para que outras pessoas compreendam como o grupo conseguiu realizar o projeto, quais as atividades feitas, etc, e possam ter meios compreender como reproduzir o projeto, se assim fosse necessário.
+
+Se possível, é legal citar o nome dos arquivos implementados, se forem poucos. Por exemplo, se o seu projeto tiver 4 arquivos, cada um com uma função, citar o nome deles na parte do passo a passo correspondente. Se forem muitos arquivos para uma mesma coisa, não tem problema, podem deixar sem ou deixar apenas o nome da pasta.
 
 ### Exemplo:
 
 1. Baixamos o material disponível em [Material](https://materialdeexemplodohackerspace.com.br)
 2. Estudamos como o código do material anterior funciona
-3. Implementamos um programa que se comunicasse com o código compreendido
-4. 
+3. Implementamos um programa que se comunicasse com o código compreendido (comunicacao.c e comunicacao.h)
+4. Implementamos uma interface gráfica para utilizar o programa de comunicação de forma mais intuitiva.
 
 ## Instalação
 Passos necessários para instalar ou recriar seu projeto, se assim for necessário. A descrição dos passos não precisa ser complexa. É necessário apenas o mais importante para que outras pessoas saibam como fazê-lo.
