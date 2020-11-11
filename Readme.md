@@ -1,4 +1,4 @@
-### OBSERVAÇÃO: Este repositório não receberá mais atualizações. A equipe do HackoonSpace migrou ele para [este novo repositório](https://github.com/hackoonspace/Hackoonspace-template). Quaisquer atualizações futuras serão feitas lá.
+### OBSERVAÇÃO: Este repositório não receberá mais atualizações. A equipe do HackoonSpace migrou o template de projetos para [este novo repositório](https://github.com/hackoonspace/Hackoonspace-template). Quaisquer atualizações futuras serão feitas lá.
 
 Este Readme é um modelo que pode ser usado para os repositórios no GitHub de projetos feitos para a atividade de Extensão Hackerspace, da Universidade Federal de São Carlos - Campus Sorocaba. É importante observar que alguns campos e informações são opcionais, e que não é necessário seguir rigorosametne o modelo proposto. O objetivo é que, obrigatóriamente, os grupos coloquem em seus repositórios as informações requisitadas aqui, porém o formato em si pode ou não seguir o modelo.
 
